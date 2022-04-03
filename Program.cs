@@ -13,7 +13,7 @@ namespace LinkedListOperation
             obj.InsertFront(30);
             obj.InsertFront(70);
             //Display Operation
-            Console.WriteLine("Appending");
+            Console.WriteLine("Inserting In Middle");
             obj.Display();
         }
     }
